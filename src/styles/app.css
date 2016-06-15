@@ -1,0 +1,23 @@
+.chat-box {
+  background-color: cadetblue;
+  display: inline-block;
+  width: 50%;
+  position: relative;
+  border: 1px solid #350b0b;
+}
+
+.avatar {
+  display: inline;
+  width: 50%;
+  margin: 1% 2%;
+}
+
+.avatar > img {
+  width: 20%;
+}
+
+.message-box {
+  top: 40%;
+  display: inline-block;
+  position: absolute;
+}
